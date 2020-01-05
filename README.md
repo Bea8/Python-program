@@ -1,2 +1,2 @@
-# Python-programe
+# Python-program
 STX: Python task
